@@ -4,7 +4,7 @@ JS Square Packing is a Javascript tool which will pack random size square images
 
 Below is an example of the final outcome.
 
-![as3-square-packing](https://www.dropbox.com/s/rxtdwvb550famwr/js-square-packing.png?dl=0&raw=1)
+![as3-square-packing](https://www.dropbox.com/s/zxnemrnbt2vagij/js-square-packing.png?dl=0&raw=1)
 
 Just provide an array of images to randomly choose from and the sizes you want.
 
