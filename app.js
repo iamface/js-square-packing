@@ -4,8 +4,9 @@ $(document).ready(function(){
     // TODO load images with ajax from db
 
     var images = [
-        '/images/favicon.ico',
-        '/images/bike.jpg'];
+        './images/red.jpg',
+        './images/blue.jpg',
+        './images/yellow.jpg'];
     var sizes = [10,40,20];
 
     sizes = sizes.sort(ImagePacking.sortNumber);
