@@ -24,7 +24,7 @@ And add a container div.
     
 It will recursively pick one of the sizes and images at random and then attempt to place that image starting in the top left corner. If it fits (without covering another image or flowing off the right side) it will place the image down, then repeat. Once it fills a row to the end of the given area, it will then move down and continue from there.
 
-This will work with any array of images to create different affects.
+This will work with any array of images to create different effects.
 
 ![as3-square-packing](https://www.dropbox.com/s/rxtdwvb550famwr/js-square-packing-android.png?dl=0&raw=1)
 
